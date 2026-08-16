@@ -1,0 +1,27 @@
+{
+  "SKU-1001": {
+    "qty": 47,
+    "updated_at": "2026-08-16T12:51:12.880495+00:00",
+    "available": true
+  },
+  "SKU-1002": {
+    "qty": 12,
+    "updated_at": "2026-08-13T09:05:00Z",
+    "available": true
+  },
+  "SKU-1003": {
+    "qty": 200,
+    "updated_at": "2026-08-13T08:30:00Z",
+    "available": true
+  },
+  "SKU-1004": {
+    "qty": 8,
+    "updated_at": "2026-08-13T09:10:00Z",
+    "available": true
+  },
+  "SKU-1005": {
+    "qty": 0,
+    "updated_at": "2026-08-13T07:00:00Z",
+    "available": false
+  }
+}

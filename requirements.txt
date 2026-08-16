@@ -1,0 +1,2 @@
+# No external dependencies -- everything here uses the Python standard library
+# (json, dataclasses, datetime, argparse, time). File kept for clarity/convention.
