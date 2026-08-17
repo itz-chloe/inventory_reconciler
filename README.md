@@ -159,10 +159,8 @@ Potential future improvements include:
 * Supporting larger inventory datasets
 * Adding more detailed dashboard visualisations
 * Adding automated data validation
-* Improving discrepancy categorisation
-* Adding configurable reconciliation rules
-* Automating the reconciliation process through scheduled execution
-* Adding a more interactive web-based dashboard
+
+* Adding a more interactive web based dashboard
 
 ## Project Status
 
